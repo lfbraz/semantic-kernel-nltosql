@@ -1,0 +1,12 @@
+The user has provided a Natural Language description of the OBJECTIVE
+---
+{{$input}}
+---
+Your goal is to create a response to the end user based on the OBJECTIVE.
+The response should be formulated based on the information returned from the database and the original user input.
+
+Ex: 
+Response: [{'NumberOfTransactions': 30}]
+Message -> According to the database query the number of transactions is 30.
+
+"""
