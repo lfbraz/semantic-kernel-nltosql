@@ -67,5 +67,5 @@ if __name__ == "__main__":
     import asyncio
 
     asyncio.run(main("I want to know how many transactions in the last 3 months"))
-    asyncio.run(main("Give me the best seller name in terms of sales volume in the whole period"))
+    asyncio.run(main("Give me the name of the best seller in terms of sales volume in the whole period"))
     asyncio.run(main("Which product has the highest sales volume in the last month"))
