@@ -14,9 +14,7 @@ In the example of this repo, we developed the following plugin:
 
 - **nlpToSqlPlugin**: This plugin is responsible for converting the Natural Language (NL) to SQL Query using Azure OpenAI (GPT-4 model).
 
-As part of the plugin, we developed skills throught the use of [prompts](https://learn.microsoft.com/en-us/semantic-kernel/prompts/).
-
-The following skill were developed:
+As part of the plugin, we developed skills throught the use of [prompts](https://learn.microsoft.com/en-us/semantic-kernel/prompts/). The following skills were developed:
 
 - **ConvertNLPToSQL**: This skill is responsible for converting the Natural Language (NL) to SQL Query using Azure OpenAI (GPT-4 model).
 - **MakeSQLCompatible**: This skill is responsible for making the SQL Query compatible with the Transact-SQL syntax.
